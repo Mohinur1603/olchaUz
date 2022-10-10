@@ -1,0 +1,59 @@
+.productCard > img {
+  background-size: cover;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.productCard:hover {
+  box-shadow: 1px 1px 10px 6px #d5d5d5;
+  border-radius: 5px;
+}
+.productCardDark {
+  background-color: rgb(84, 83, 83);
+  border-radius: 10px;
+}
+
+.groupname {
+  text-decoration: none;
+  color: #222;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.groupname:hover {
+  color: crimson;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.priceMonth {
+  background-color: crimson;
+  color: #fff;
+  font-weight: 700;
+  padding-left: 10px;
+  border-radius: 20px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.btn3 {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid #222;
+  text-decoration: none;
+  color: #111;
+  border-radius: 20px;
+}
+
+.buy{
+  background-color: rgb(254, 191, 180);
+  color: rgb(244, 0, 0);
+}
+

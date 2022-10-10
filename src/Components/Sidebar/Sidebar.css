@@ -1,0 +1,23 @@
+.sidebar{
+    width: 400px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 10px 0 20px 0 #212121;
+    transition: 0.4s;
+}
+
+.btnX {
+    padding:0px 15px;
+    height: 40px;
+    border-radius: 100%;
+    border: none;
+    background-color: crimson;
+    color: #fff;
+    font-weight: bold;
+}
+.hide{
+    display: none;
+}
